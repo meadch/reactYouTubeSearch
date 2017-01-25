@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Abel', sans-serif;
+}
+
+.app-header {
+  padding: 20px;
+  background: #2AAA9B;
+  color: white;
+}
+
+li {
+  list-style: none;
+}
+
+.video-item-row {
+  display: flex;
+  align-items: center;
+  margin: 5px 0;
+}
+
+.list-group {
+  margin-top: 15px;
+}
+
+.youtube-player {
+  width: 100%;
+}
